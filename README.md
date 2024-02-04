@@ -38,7 +38,7 @@ npm install
 To start the script, execute:
 
 ```sh
-node index.js
+node main.js
 ```
 
 Follow the prompts in your terminal:
