@@ -1,10 +1,10 @@
 # Twitter Media Scrapper
 
-This Node.js script automates the process of downloading media (currently images) from specified Twitter posts. It utilizes Puppeteer with a Stealth Plugin to navigate and render Twitter pages, Cheerio for parsing HTML and selecting media elements, Axios for handling downloads, and provides feedback with colorful console output.
+This Node.js script automates the process of downloading media (currently images and gifs) from specified Twitter posts. It utilizes Puppeteer with a Stealth Plugin to navigate and render Twitter pages, Cheerio for parsing HTML and selecting media elements, Axios for handling downloads, and provides feedback with colorful console output.
 
 ## Features
 
-- Automates downloading of images from Twitter posts.
+- Automates downloading of images and gifs from Twitter posts.
 - Stealth browsing with Puppeteer to mimic a real user session.
 - Image selection with Cheerio for efficient parsing.
 - Direct image downloading into a specified folder using Axios.
